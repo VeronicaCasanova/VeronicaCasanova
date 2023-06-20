@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-  <img align="right" src="https://giphy.com/embed/LHZyixOnHwDDy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>">
+  <img align="right" src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">
 </div>
 
           
