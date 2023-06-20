@@ -1,8 +1,6 @@
 Hi there 👋
 
 - 👩‍💻 I’m currently learning back-end development.
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
                     
 <div>
     <a href="https://beacons.ai/VeronicaCasanova">
@@ -13,7 +11,7 @@ Hi there 👋
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="SQLServer" height="60" width="70" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="50" width="60" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
