@@ -1,7 +1,14 @@
 Hi there 👋
 
 - 👩‍💻 I’m currently learning back-end development.
-                    
+
+<html>
+  <body>
+    <style>
+      svg{
+        color: "red";
+      }
+    </style>
 <div>
     <a href="https://beacons.ai/VeronicaCasanova">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeronicaCasanova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,5 +26,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
   <img align="center" alt="" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt="" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 </div>
- 
+</body>
+</html>
           
