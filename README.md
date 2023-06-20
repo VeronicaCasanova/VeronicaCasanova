@@ -13,5 +13,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 <div>
     <a href="https://beacons.ai/VeronicaCasanova">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeronicaCasanova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeronicaCasanova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
