@@ -4,7 +4,7 @@ Hi there 👋
 
 <div>
     <a href="https://beacons.ai/VeronicaCasanova">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeronicaCasanova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeronicaCasanova&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaCasanova&layout=compact&langs_count=16theme=tokyonight"/> -->
 </div>
 
