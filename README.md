@@ -20,5 +20,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 </div>
 
-        ![giphy-2](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/c50a93f1-be2c-4269-af59-16341834a942)
   
