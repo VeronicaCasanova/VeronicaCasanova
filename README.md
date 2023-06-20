@@ -2,6 +2,8 @@ Hi there 👋
 
 - 👩‍💻 I’m currently learning back-end development.
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div>
     <a href="https://beacons.ai/VeronicaCasanova">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeronicaCasanova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
