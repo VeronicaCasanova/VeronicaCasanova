@@ -21,3 +21,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 </div><br>
 
 ![giphy](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/7eda81c3-e85c-48b9-8343-791a5b19013d)  
+
+![Snake animation](https://github.com/VeronicaCasanova/VeronicaCasanova/blob/output/github-contribution-grid-snake.svg)
