@@ -1,6 +1,7 @@
 Hi there 👋
 
-- 👩‍💻 I’m currently learning back-end development.
+- I’m currently learning back-end development 👩‍💻 
+- I'm half Brazilian, half Chilean 🇧🇷/🇨🇱
 
 <div>
     <a href="https://beacons.ai/VeronicaCasanova">
