@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
 </div>
 
-          
+        ![giphy-2](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/c50a93f1-be2c-4269-af59-16341834a942)
+  
