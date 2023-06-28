@@ -22,9 +22,15 @@ Hi there 👋
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />          
 </div><br>
+
+![ASP - Logo - 3](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/d147c222-c056-4a98-8f9d-22bc269647da)
+![2023-06-28 (2) - 44](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/27d40bba-2fc4-4bdf-89a1-66c4a801fad5)
+
+
+
+
 
 ![giphy](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/7eda81c3-e85c-48b9-8343-791a5b19013d)  
 
