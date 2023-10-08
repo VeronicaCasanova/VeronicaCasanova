@@ -32,7 +32,7 @@ Hi there 👋
 </div><br>
 
 ![asp](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/79da469b-d642-45c7-8236-0bd66d974c9e)
-![sqlserver](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/dd2b5260-4f2e-4524-bff0-a5cf61066984)
+![sqlserver](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/1fd202ab-d169-4727-823b-2efd654c9528)
 
 ![giphy](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/7eda81c3-e85c-48b9-8343-791a5b19013d)  
 
