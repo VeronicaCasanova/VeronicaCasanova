@@ -11,8 +11,8 @@ Hi there 👋
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/        
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>     
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>               
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -31,8 +31,8 @@ Hi there 👋
                         
 </div><br>
 
-![ASP - Logo - 3](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/d147c222-c056-4a98-8f9d-22bc269647da)
-![2023-06-28 (2) - 44](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/27d40bba-2fc4-4bdf-89a1-66c4a801fad5)
+![asp](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/79da469b-d642-45c7-8236-0bd66d974c9e)
+![sqlserver](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/dd2b5260-4f2e-4524-bff0-a5cf61066984)
 
 ![giphy](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/7eda81c3-e85c-48b9-8343-791a5b19013d)  
 
