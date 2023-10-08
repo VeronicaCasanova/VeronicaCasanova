@@ -36,4 +36,4 @@ Hi there 👋
 
 ![giphy](https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/7eda81c3-e85c-48b9-8343-791a5b19013d)  
 
-![Snake animation](https://github.com/VeronicaCasanova/VeronicaCasanova/blob/output/github-contribution-grid-snake.svg)
+
