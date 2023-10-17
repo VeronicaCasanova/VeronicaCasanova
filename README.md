@@ -1,18 +1,15 @@
 <h2>Hi there 👋, I'm Veronica</a></h2> 
 <p>System Developer 👩‍💻 Half Brazilian, half Chilean 🇧🇷/🇨🇱 ☕/🍵 lover</p>
 <p><a href="https://www.linkedin.com/in/veronicacasanova/"><img src="https://img.shields.io/badge/-@veronicacasanova-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/veronicacasanova/" alt="LinkedIn Badge"></a> <a href="http://hits.dwyl.com/VeronicaCasanova/VeronicaCasanova/VeronicaCasanova.svg?style=flat-square"><img src="https://hits.dwyl.com/VeronicaCasanova/VeronicaCasanova/VeronicaCasanova.svg?style=flat-square" alt="HitCount"></a></p>
-<img align="right" height="350" width="350" src="https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/7eda81c3-e85c-48b9-8343-791a5b19013d"/>
+<img align="right" height="300" width="300" src="https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/7eda81c3-e85c-48b9-8343-791a5b19013d"/>
 <h2>🔎 A Few Quick Facts</h2>
 <ul>
-<li>🤓 I’m aiming to become a full stack developer</li>
-<li>☁️ I'm currently learning about <strong>Serverless Computing</strong></li>
-<li>💬 Ping me about <strong>Java and Cloud stuff</strong></li>
-<li>😸 Fun Fact: I'm a Lady Cat</li>
-
-</p>
-<img height="380" width="380" src="https://github-readme-stats.vercel.app/api?username=VeronicaCasanova&show_icons=true&theme=tokyonight&count_private=true" alt="veronicacasanova" />
-<p>
-  </ul>
+  <li>🤓 I’m aiming to become a full stack developer</li>
+  <li>☁️ I'm currently learning about <strong>Serverless Computing</strong></li>
+  <li>💬 Ping me about <strong>Java and Cloud stuff</strong></li>
+  <li>😸 Fun Fact: I'm a Lady Cat</li>
+</ul>
+<img src="https://github-readme-stats.vercel.app/api?username=VeronicaCasanova&show_icons=true&theme=tokyonight&count_private=true" alt="veronicacasanova"/>
 <h2>🧰 Some Tools I Use</h2>
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>     
