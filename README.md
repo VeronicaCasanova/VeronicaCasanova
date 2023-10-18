@@ -34,8 +34,14 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 </div><br> 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VeronicaCasanova/VeronicaCasanova/output/github-contribution-grid-snake.svg" /> 
+  <br/><br/><br/>
+</div>
 
- ![Snake animation](https://github.com/VeronicaCasanova/VeronicaCasanova/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
 
