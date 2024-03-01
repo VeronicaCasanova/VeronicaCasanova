@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Veronica</a></h2> 
 <p>System Developer 👩‍💻 Half Brazilian, half Chilean 🇧🇷/🇨🇱 ☕/🍵 lover</p>
-<p><a href="https://www.linkedin.com/in/veronicacasanova/"><img src="https://img.shields.io/badge/-@veronicacasanova-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/veronicacasanova/" alt="LinkedIn Badge"></a> <a href="http://hits.dwyl.com/VeronicaCasanova/VeronicaCasanova/VeronicaCasanova.svg?style=flat-square"><img src="https://hits.dwyl.com/VeronicaCasanova/VeronicaCasanova/VeronicaCasanova.svg?style=flat-square" alt="HitCount"></a></p>
+<p><a href="https://www.linkedin.com/in/veronicacasanova/"><img src="https://img.shields.io/badge/-@veronicacasanova-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/veronicacasanova/" alt="LinkedIn Badge"></a>
 <h2>🔎 A Few Quick Facts</h2>
 <img align="right" height="330" width="330" src="https://github.com/VeronicaCasanova/VeronicaCasanova/assets/133685494/7eda81c3-e85c-48b9-8343-791a5b19013d"/>
 <ul>
